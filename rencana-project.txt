@@ -4,5 +4,7 @@ Rencana project
 - rencana dll
 - menambahkan page admin,dosen,dan mahasiswa
 - kp nggak ngotak
-- codeigniter 3
 - susah
+- codeigniter 4 based
+- tutorial e kurang
+
