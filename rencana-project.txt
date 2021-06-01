@@ -1,0 +1,5 @@
+Rencana project
+- rencana login multi user
+- rencana show id table berdasarkan id login
+- rencana dll
+- menambahkan page admin,dosen,dan mahasiswa
